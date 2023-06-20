@@ -1,4 +1,4 @@
-# Core PHP Admin panel
+# PHP Native CRUD
 
 
 A Simple Admin Pannel written in core PHP. It contains an implementation of general features you might need in your website admin panel like :
@@ -12,8 +12,8 @@ A Simple Admin Pannel written in core PHP. It contains an implementation of gene
 ### Live Demo :
 http://freecs9.epizy.com/core-php-admin
 Credentials :  
-**username** : admin
-**password** : admin
+**username** : superadmin
+**password** : superadmin
 
 
 ### Libraries used : 
